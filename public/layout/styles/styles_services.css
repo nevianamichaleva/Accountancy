@@ -49,11 +49,11 @@ h2 {
     padding: 9px 30px;
     height: 20px;
     text-decoration: none;
-    background: url("../../images/demo/menuback.jpg") no-repeat;
+    background: url("/static/images/demo/menuback.jpg") no-repeat;
 }
 
 .sidebar li a:hover {
-    background: url(../../images/demo/menubackhover.jpg) no-repeat right;
+    background: url("/static/images/demo/menubackhover.jpg") no-repeat right;
     padding: 9px 75px;
 }
 
