@@ -12,7 +12,7 @@ module.exports = function(data) {
     app.use(bodyParser.urlencoded({ extended: true }));
     app.use(cors());
     app.use(express.static("public"));
-
+    app.use("/static", express.static("public"));
 
     return app;
 };
