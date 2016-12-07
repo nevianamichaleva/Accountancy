@@ -19,6 +19,7 @@
     "handlebars": "^4.0.5",
     "sammy": "^0.7.6",
     "bootstrap": "^3.3.7",
-    "lodash": "^4.16.4"
+    "lodash": "^4.16.4",
+    "toastr": "^2.1.3"
   }
 }
